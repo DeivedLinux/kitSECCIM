@@ -14,6 +14,6 @@ Board used in mini-course Programming of Microcontrollers in academic week of co
 - **NOR Memory Flash - SQI Quad 50MHz**
 
 ### Topics Covered
-- **Input/Output
-   -Blink Led**
+- **Input/Output**
+   *Blink Led*
 
