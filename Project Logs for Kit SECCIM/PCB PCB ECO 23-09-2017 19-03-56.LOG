@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetU4_17 Pin=U7-59
+Removed Pin From Net: NetName=NetU4_18 Pin=U7-60
+Added Pin To Net: NetName=NetU4_18 Pin=U7-21
+Added Pin To Net: NetName=NetU4_17 Pin=U7-22
+Added Room: Name=CODEC
+Added Room: Name=Communication
+Added Room: Name=Decoupling Capacitors
+Added Room: Name=LCD
+Added Room: Name=MCU
+Added Room: Name=Memory Nor Flash
+Added Room: Name=SD CARD

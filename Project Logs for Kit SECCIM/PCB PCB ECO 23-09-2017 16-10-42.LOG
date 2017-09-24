@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=+3.3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=+5 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=+3.3 Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=NetR16_1 Pin=R22-1
+Removed Pin From Net: NetName=NetR18_1 Pin=R24-1
+Removed Pin From Net: NetName=NetR19_2 Pin=R25-2
+Removed Pin From Net: NetName=NetR20_1 Pin=R26-1
+Removed Pin From Net: NetName=NetR21_2 Pin=R27-2
+Removed Pin From Net: NetName=NetP1_15 Pin=TP1-1
+Removed Pin From Net: NetName=NetP1_13 Pin=TP2-1
+Removed Pin From Net: NetName=NetP1_11 Pin=TP3-1
+Removed Pin From Net: NetName=NetP1_26 Pin=TP4-1
+Removed Pin From Net: NetName=NetP1_24 Pin=TP5-1
+Removed Pin From Net: NetName=+3.3 Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U9-10
+Removed Member From Class: ClassName=Memory Nor Flash Member=C42
+Removed Member From Class: ClassName=Memory Nor Flash Member=R22
+Removed Member From Class: ClassName=Memory Nor Flash Member=R23
+Removed Member From Class: ClassName=Memory Nor Flash Member=R24
+Removed Member From Class: ClassName=Memory Nor Flash Member=R25
+Removed Member From Class: ClassName=Memory Nor Flash Member=R26
+Removed Member From Class: ClassName=Memory Nor Flash Member=R27
+Removed Member From Class: ClassName=LCD Member=TP1
+Removed Member From Class: ClassName=LCD Member=TP2
+Removed Member From Class: ClassName=LCD Member=TP3
+Removed Member From Class: ClassName=LCD Member=TP4
+Removed Member From Class: ClassName=LCD Member=TP5
+Removed Member From Class: ClassName=Memory Nor Flash Member=U9
+Change Component Footprint: Designator=C1 Old Footprint=0805C-TBD New Footprint=WCAP-CSGP_0603, 1.6x0.8x0.8mm_Reflow
+Change Component Footprint: Designator=C2 Old Footprint=0805C-TBD New Footprint=WCAP-CSGP_0603, 1.6x0.8x0.8mm_Reflow
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=885012206020
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=885012206020
+Change component parameters: Designator = "C1"; Footprint = "WCAP-CSGP_0603, 1.6x0.8x0.8mm_Reflow"; UniqueID = "\BXQDOAAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/885012206020.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "885012206020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603, 1.6x0.8x0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "WCAP-CSGP_0603, 1.6x0.8x0.8mm_Reflow"; UniqueID = "\XWGCLUWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/885012206020.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "885012206020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603, 1.6x0.8x0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3.3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=NetU7_82 Pin=U7-82
+Added Net: Name=NetU7_82

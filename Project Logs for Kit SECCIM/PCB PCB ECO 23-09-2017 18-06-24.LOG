@@ -1,0 +1,6 @@
+Added Component: Designator=D1(MELFDIODE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC18_2 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=D1-2
+Added Member To Class: ClassName=Communication Member=Component D1 1N5817
+Added Member To Class: ClassName=MCU Member=Component U7 PIC32MZ1024ECG100-E/PF

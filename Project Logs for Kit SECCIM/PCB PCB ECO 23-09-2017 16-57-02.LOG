@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetP1_23 Pin=TP6-1
+Removed Pin From Net: NetName=NetP1_21 Pin=TP7-1
+Removed Pin From Net: NetName=NetP1_19 Pin=TP8-1
+Removed Pin From Net: NetName=NetU4_3 Pin=U7-17
+Removed Pin From Net: NetName=NetU4_1 Pin=U7-38
+Removed Member From Class: ClassName=LCD Member=TP6
+Removed Member From Class: ClassName=LCD Member=TP7
+Removed Member From Class: ClassName=LCD Member=TP8
+Added Pin To Net: NetName=NetU4_1 Pin=U7-26
+Added Pin To Net: NetName=NetU4_3 Pin=U7-27

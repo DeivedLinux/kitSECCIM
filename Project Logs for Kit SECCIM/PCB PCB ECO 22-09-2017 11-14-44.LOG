@@ -1,0 +1,10 @@
+Added Component: Designator=U3(MSOP-MS8_N)
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Pin To Net: NetName=NetC18_2 Pin=U3-2
+Added Pin To Net: NetName=+3.3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetC17_2 Pin=U3-5
+Added Pin To Net: NetName=NetC17_1 Pin=U3-6
+Added Pin To Net: NetName=NetU3_7 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Member To Class: ClassName=Communication Member=Component U3 MCP1253-ADJI/MS

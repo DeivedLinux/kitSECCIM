@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=J4 Old DesignItemId=693071010811 New DesignItemId=DM3AT-SF-PEJM5
+Change Component Comment : Designator=J4 Old Comment=693071010811 New Comment=DM3AT-SF-PEJM5
+Change Component Description : Designator=J4 Old Description=WR-CRD Micro SD Card Connector Push & Push - 8 pins New Description=Conector micro SD push/push
+Change Component Library : Designator=J4 Old Library=Altium_WR-CRD (rev16c).IntLib New Library=Componentes Deived Projetos.IntLib
+Added Component: Designator=R32(3-0603)
+Added Pin To Net: NetName=+3.3 Pin=R32-2
+Added Pin To Net: NetName=NetJ4_11 Pin=R32-1
+Added Pin To Net: NetName=NetJ4_11 Pin=U7-44
+Added Net: Name=NetJ4_11
+Added Member To Class: ClassName=SD CARD Member=Component R32 2k2

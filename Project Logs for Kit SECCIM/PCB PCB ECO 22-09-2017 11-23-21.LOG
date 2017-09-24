@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=J4-Shield
+Removed Pin From Net: NetName=GND Pin=J4-Shield
+Removed Pin From Net: NetName=GND Pin=J4-Shield
+Removed Pin From Net: NetName=GND Pin=J4-Shield
+Removed Pin From Net: NetName=NetJ4_7 Pin=R28-1
+Removed Pin From Net: NetName=+3.3 Pin=R28-2
+Removed Pin From Net: NetName=NetJ4_5 Pin=R29-1
+Removed Pin From Net: NetName=+3.3 Pin=R29-2
+Removed Pin From Net: NetName=NetJ4_2 Pin=R30-1
+Removed Pin From Net: NetName=+3.3 Pin=R30-2
+Removed Pin From Net: NetName=+3.3 Pin=R31-2
+Removed Pin From Net: NetName=NetJ4_2 Pin=U7-64
+Change Component DesignItemId : Designator=J4 Old DesignItemId=693063010911 New DesignItemId=693071010811
+Change Component Footprint: Designator=J4 Old Footprint=693063010911 New Footprint=693071010811
+Change Component Comment : Designator=J4 Old Comment=693063010911 New Comment=693071010811
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=+3.3 Pin=R28-1
+Added Pin To Net: NetName=NetJ4_7 Pin=R28-2
+Added Pin To Net: NetName=+3.3 Pin=R29-1
+Added Pin To Net: NetName=NetJ4_5 Pin=R29-2
+Added Pin To Net: NetName=+3.3 Pin=R30-1
+Added Pin To Net: NetName=+3.3 Pin=R31-1
+Added Pin To Net: NetName=NetJ4_2 Pin=R31-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U7-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=R30-2
+Added Pin To Net: NetName=NetJ4_3 Pin=U7-64
+Added Net: Name=NetJ4_3
