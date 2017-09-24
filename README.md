@@ -2,7 +2,7 @@
 
 Board used in mini-course Programming of Microcontrollers in academic week of computer science - SSECIM
 
-### Hardware###
+### Hardware
 
 - **PIC32MZ1024ECG-100/PF**
 - **ES8328 Audio Codec**
